@@ -1,4 +1,4 @@
-package com.briocodes.pluralsight;
+package com.briocodes.hello;
 
 import org.junit.Test;
 

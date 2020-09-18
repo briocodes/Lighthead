@@ -1,4 +1,4 @@
-package com.briocodes.pluralsight;
+package com.briocodes.hello;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.briocodes.pluralsight", appContext.getPackageName());
+        assertEquals("com.briocodes.hello", appContext.getPackageName());
     }
 }
